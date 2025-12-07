@@ -1,2 +1,0 @@
-# VictoriaClaire-repo
-docusaurus repo
